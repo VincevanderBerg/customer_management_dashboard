@@ -1,0 +1,6 @@
+{
+  "appTitle": "customer_management_dashboard",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
